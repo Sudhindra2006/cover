@@ -153,7 +153,7 @@ Publish the website in the LocalHost.
 ```
 
 ## OUTPUT:
-![alt text](<sudhi/Screenshot 2024-12-09 211404.png>)
+![alt text](<Screenshot 2024-12-09 214237.png>)
 
 
 ## RESULT:
